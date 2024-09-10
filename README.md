@@ -1,5 +1,7 @@
-AutoRithm | Python, Robot-C, Ultrasonic Sensors, HTML, CSS, EV3 Dec. 2023
+<h6> AutoRithm | Python, Robot-C, Ultrasonic Sensors, HTML, CSS, EV3 </h6>
 
+<h5>
+  
 • Developed a robotic arm solution for precise food packaging using RobotC
 
 • Deployed a color sorting algorithm to avoid duplicate snack picking, enhancing operational accuracy.
@@ -7,3 +9,4 @@ AutoRithm | Python, Robot-C, Ultrasonic Sensors, HTML, CSS, EV3 Dec. 2023
 • Crafted a Python algorithm for volunteer matching & optimized delivery routes with a distance matrix API
 
 • Special Recognition at the WIE Hackathon
+</h5>
