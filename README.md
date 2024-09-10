@@ -1,4 +1,4 @@
-<h6> AutoRithm | Python, Robot-C, Ultrasonic Sensors, HTML, CSS, EV3 </h6>
+<h3> AutoRithm | Python, Robot-C, Ultrasonic Sensors, HTML, CSS, EV3 </h3>
 
 <h5>
   
